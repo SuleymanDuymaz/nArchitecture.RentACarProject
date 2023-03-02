@@ -1,0 +1,83 @@
+<p align="center">
+  <a href="https://github.com/kodlamaio-projects/nArchitecture.RentACarProject/graphs/contributors"><img src="https://img.shields.io/github/contributors/kodlamaio-projects/nArchitecture.RentACarProject.svg?style=for-the-badge"></a>
+  <a href="https://github.com/kodlamaio-projects/nArchitecture.RentACarProject/network/members"><img src="https://img.shields.io/github/forks/kodlamaio-projects/nArchitecture.RentACarProject.svg?style=for-the-badge"></a>
+  <a href="https://github.com/kodlamaio-projects/nArchitecture.RentACarProject/stargazers"><img src="https://img.shields.io/github/stars/kodlamaio-projects/nArchitecture.RentACarProject.svg?style=for-the-badge"></a>
+  <a href="https://github.com/kodlamaio-projects/nArchitecture.RentACarProject/issues"><img src="https://img.shields.io/github/issues/kodlamaio-projects/nArchitecture.RentACarProject.svg?style=for-the-badge"></a>
+  <a href="https://github.com/kodlamaio-projects/nArchitecture.RentACarProject/blob/master/LICENSE"><img src="https://img.shields.io/github/license/kodlamaio-projects/nArchitecture.RentACarProject.svg?style=for-the-badge"></a>
+</p><br />
+
+<p align="center">
+  <a href="https://github.com/kodlamaio-projects/nArchitecture.RentACarProject"><img src="https://user-images.githubusercontent.com/53148314/194872467-827dc967-acee-4bca-88a2-59ed5695bebf.png" height="125"></a>
+  <h3 align="center">nArchitecture RentACar Project
+</h3>
+  <p align="center">
+    <!-- PROJECT_DESCRIPTION -->
+    <!-- <br />
+    <a href="https://github.com/kodlamaio-projects/nArchitecture.RentACarProject"><strong>Explore the docs »</strong></a>
+    <br /> -->
+    <!-- <br />
+    <a href="https://github.com/kodlamaio-projects/nArchitecture.RentACarProject">View Demo</a>
+    · -->
+    <a href="https://github.com/kodlamaio-projects/nArchitecture.RentACarProject/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/kodlamaio-projects/nArchitecture.RentACarProject/issues">Request Feature</a>
+  </p>
+</p>
+
+## 💻 About The Project
+As Kodlama.io, we decided to share examples of completed projects. Inspired by Clean Architecture, nArchitecture is a monolith project. In this project, which is a rental car simulation, we have completed the project with advanced techniques. A project has been created that includes Clean Architecture, CQRS, Advanced Repository, Dynamic Querying, JWT, OTP, Google & Microsoft Auth, Role Based Management, Distributed Caching(Redis), Logging (Serilog), Elastic Search, and much more. By contributing, you can support the project and learn new things.
+
+### Built With
+
+[![](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/tr-tr/dotnet/welcome)
+
+## ⚙️ Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+- .NET 6
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/kodlamaio-projects/nArchitecture.RentACarProject.git
+   ```
+2. Configure `appsettings.json` in WebAPI.
+3. Run `Update-Database` command with Package Manager Console in WebAPI to create tables in sql server.
+
+<!-- ## 🚀 Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](DOCUMENTATION_LINK)_ -->
+
+## 🚧 Roadmap
+
+See the [open issues](https://github.com/kodlamaio-projects/nArchitecture.RentACarProject/issues) for a list of proposed features (and known issues).
+
+## 🤝 Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b <feature>/<amazingFeature>'`)
+3. Commit your Changes (`git commit -m '<semanticCommitType>(<scope>): <amazingFeature>'`)
+   💡 Check [Semantic Commit Messages](./docs/Semantic%20Commit%20Messages.md)
+4. Push to the Branch (`git push origin <feature>/<amazingFeature>`)
+5. Open a Pull Request
+
+## ⚖️ License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## 📧 Contact
+
+**Project Link:** [https://github.com/kodlamaio-projects/nArchitecture.RentACarProject](https://github.com/kodlamaio-projects/nArchitecture.RentACarProject)
+
+<!-- ## 🙏 Acknowledgements
+- []() -->
+
+<!-- readme template author: https://github.com/ahmet-cetinkaya-core -->
